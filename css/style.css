@@ -1,14 +1,17 @@
 .education{
-  
+  font-weight: bold;
+  color: grey;
 }
 
 .work-experience{
-
+  font-style: italic;
+  color: green;
 }
 .skills{
-
+  font-size: 30;
 }
 
 .timeplace{
-
+  color: pink;
+  font-family: fantasy, sans-serif, serif;
 }
